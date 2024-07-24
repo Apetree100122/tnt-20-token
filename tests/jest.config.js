@@ -1,6 +1,5 @@
-module
-.exports = {verbose: true,
-        setupTestFrameworkScriptFile:
-        /.jest.setup.js 
-                ,setupFiles [.dotenv/.config]
-    }
+mod.exports:
+{ "verbose: true,
+        "setup: TestFramework
+        "ScriptFile:'jest.setup.js
+        [ `dotenv:config ]}
